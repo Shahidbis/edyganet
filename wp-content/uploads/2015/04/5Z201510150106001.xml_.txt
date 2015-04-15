@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<article>
+  <site>5Z</site>
+  <sitename></sitename>
+  <siteaddress></siteaddress>
+  <charset>ISO-8859-1</charset>
+  <date>2015-01-06T00:00:00</date>
+  <category>PRESSRELEASES2015</category>
+  <artno>150106001</artno>
+  <fastid>ST-5Z-PRESSRELEASES2015-20150106-0150106001</fastid>
+  <priority>1</priority>
+  <status>9</status>
+  <pub>1</pub>
+  <publishfrom></publishfrom>
+  <publishto></publishto>
+  <lastmodified>1/16/2015 4:50:58 PM</lastmodified>
+  <reference>AR</reference>
+  <fpsubclass></fpsubclass>
+  <secsubclass></secsubclass>
+  <artsubclass></artsubclass>
+  <forum>0</forum>
+  <rating>0</rating>
+  <created>2015-01-06T09:59:12</created>
+  <createdby>blibrizzi</createdby>
+  <modified>2015-01-06T11:10:31</modified>
+  <modifiedby>blibrizzi</modifiedby>
+  <url><![CDATA[http://www.gannett.com/apps/pbcs.dll/article?AID=2015150106001]]></url>
+  <superheading></superheading>
+  <heading><![CDATA[Al Getler Named President and Publisher of The Burlington (VT) Free Press]]></heading>
+  <heading2></heading2>
+  <netheading></netheading>
+  <teaserheading></teaserheading>
+  <summary></summary>
+  <sectionsummary></sectionsummary>
+  <byline></byline>
+  <location></location>
+  <paystatus>0</paystatus>
+  <chweb></chweb>
+  <chwap></chwap>
+  <chpda></chpda>
+  <chtxttv></chtxttv>
+  <chsms></chsms>
+  <chemail></chemail>
+  <channels></channels>
+  <wp:wxr_version>1.1</wp:wxr_version>
+  <numimages>0</numimages>
+  <imagerefs></imagerefs>
+  <imagecaptions></imagecaptions>
+  <imagetexts></imagetexts>
+  <imagebylines></imagebylines>
+  <mediaincludetype>0</mediaincludetype>
+  <blocks>2</blocks>
+  <subarticle>0</subarticle>
+  <note>0</note>
+  <theme></theme>
+  <taxonomy></taxonomy>
+  <taxonomytext></taxonomytext>
+  <keywords></keywords>
+  <factsalign>left</factsalign>
+  <factsheading></factsheading>
+  <factsbody></factsbody>
+  <source>0</source>
+
+  <firstparagraph><![CDATA[McLEAN, VA – Gannett Co., Inc. (NYSE: GCI) today named Al Getler president and publisher of The Burlington (VT) Free Press. Getler previously served as group publisher of the North of Boston Media Group.
+
+“Al is a proven leader and outside-the-box thinker who has consistently increased revenues and profits,” said Michael G. Kane, East Group president, Gannett U.S. Community Publishing. “Al has a wide range of experiences within the business and his people skills and relationship building will not only be a great asset for The Burlington Free Press but for the community as well.”
+
+During his time as group publisher of the North of Boston Media Group, Getler oversaw The Eagle-Tribune as well as the creation and management of several magazines and digital properties. Prior to that role, Getler served as president and publisher of The Daily Star and Cooperstown Crier in central New York. He was also vice president of readership for the Community Newspaper Company in Framingham, MA. 
+
+Getler returns to Gannett where he spent nearly a decade with the Newspaper Network of Central Ohio, working in various marketing and circulation roles as well as publisher of The Advocate. Getler has also worked for The Record in Troy, NY, The Press of Atlantic City (NJ) and the North Jersey Media Group.
+
+Getler attended William Paterson University. He is married with three daughters. 
+
+<b>About Gannett</b>
+Gannett Co., Inc. (NYSE: GCI) is an international media and marketing solutions company that informs and engages more than 110 million people every month through its powerful network of broadcast, digital, mobile and publishing properties. Our portfolio of trusted brands offers marketers unmatched local-to-national reach and customizable, innovative marketing solutions across any platform. Gannett is committed to connecting people – and the companies who want to reach them – with their interests and communities. For more information, visit www.gannett.com.]]></firstparagraph>
+  <connections></connections>
+  <paragraphs>
+	<paragraph id="1" html="0">
+		<body><![CDATA[McLEAN, VA – Gannett Co., Inc. (NYSE: GCI) today named Al Getler president and publisher of The Burlington (VT) Free Press. Getler previously served as group publisher of the North of Boston Media Group.
+
+“Al is a proven leader and outside-the-box thinker who has consistently increased revenues and profits,” said Michael G. Kane, East Group president, Gannett U.S. Community Publishing. “Al has a wide range of experiences within the business and his people skills and relationship building will not only be a great asset for The Burlington Free Press but for the community as well.”
+
+During his time as group publisher of the North of Boston Media Group, Getler oversaw The Eagle-Tribune as well as the creation and management of several magazines and digital properties. Prior to that role, Getler served as president and publisher of The Daily Star and Cooperstown Crier in central New York. He was also vice president of readership for the Community Newspaper Company in Framingham, MA. 
+
+Getler returns to Gannett where he spent nearly a decade with the Newspaper Network of Central Ohio, working in various marketing and circulation roles as well as publisher of The Advocate. Getler has also worked for The Record in Troy, NY, The Press of Atlantic City (NJ) and the North Jersey Media Group.
+
+Getler attended William Paterson University. He is married with three daughters. 
+
+<b>About Gannett</b>
+Gannett Co., Inc. (NYSE: GCI) is an international media and marketing solutions company that informs and engages more than 110 million people every month through its powerful network of broadcast, digital, mobile and publishing properties. Our portfolio of trusted brands offers marketers unmatched local-to-national reach and customizable, innovative marketing solutions across any platform. Gannett is committed to connecting people – and the companies who want to reach them – with their interests and communities. For more information, visit www.gannett.com.]]></body>
+	</paragraph>
+	<paragraph id="2" html="0">
+		<body><![CDATA[For media inquiries, contact:
+Jeremy Gaines
+Vice President, Corporate Communications
+703-854-6049
+jmgaines@gannett.com
+
+For investor inquiries, contact:
+Jeffrey Heinz
+Vice President, Investor Relations
+703-854-6917
+jheinz@gannett.com]]></body>
+	</paragraph>
+
+  </paragraphs>
+  <assets></assets>
+  <ExtLink></ExtLink>
+
+  <base64encimage></base64encimage>
+  <imgmimetype></imgmimetype>
+  <imgwidth></imgwidth>
+  <imgheight></imgheight>
+  <imgfilename></imgfilename>
+  <caption-leadin></caption-leadin>
+  <caption></caption>
+  <imgphoto></imgphoto>
+</article>
