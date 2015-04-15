@@ -15,3 +15,4 @@ define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
+echo "this is modification just to check if this is working on git";
